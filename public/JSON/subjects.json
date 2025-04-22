@@ -1,27 +1,27 @@
 [
     {
       "id": 1,
-      "name": "Algorithm Design and Analysis",
-      "icon": "flask"
-    },
-    {
-      "id": 2,
-      "name": "Computer Graphics and Multimedia",
-      "icon": "atom"
-    },
-    {
-      "id": 3,
       "name": "Operating System",
       "icon": "flask"
     },
     {
-      "id": 4,
+      "id": 2,
       "name": "Computer Architecture and Organisation",
+      "icon": "atom"
+    },
+    {
+      "id": 3,
+      "name": "Database Management System",
+      "icon": "flask"
+    },
+    {
+      "id": 4,
+      "name": "Computer Networks",
       "icon": "dna"
     },
     {
       "id": 5,
-      "name": "Database Management System",
+      "name": "OOPS Using Java",
       "icon": "laptop"
     }
   ]

@@ -3,14 +3,30 @@
     "notes": [
       {
         "id": 101,
-        "title": "Topic 1",
+        "title": "Introduction",
         "icon": "notebook-outline",
         "type": "pdf",
         "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
       },
       {
         "id": 102,
-        "title": "Topic 2",
+        "title": "Computer System Structures",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 103,
+        "title": "OS Structures",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 104,
+        "title": "Process",
         "icon": "notebook-outline",
         "type": "pdf",
         "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
@@ -23,12 +39,52 @@
         "icon": "file-document",
         "type": "pdf",
         "file": "https://example.com/materials/calculus_tutorial.pdf"
+      },
+
+      {
+        "id": 103,
+        "title": "Tutorial 2",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://example.com/materials/calculus_tutorial.pdf"
+      },
+
+      {
+        "id": 104,
+        "title": "Tutorial 3",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://example.com/materials/calculus_tutorial.pdf"
+      },
+
+      {
+        "id": 105,
+        "title": "Tutorial 4",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://example.com/materials/calculus_tutorial.pdf"
       }
     ],
     "labs": [
       {
         "id": 104,
         "title": "Lab 1",
+        "icon": "flask",
+        "type": "pdf",
+        "file": "https://example.com/materials/geometry_lab.pdf"
+      },
+
+      {
+        "id": 105,
+        "title": "Lab 2",
+        "icon": "flask",
+        "type": "pdf",
+        "file": "https://example.com/materials/geometry_lab.pdf"
+      },
+
+      {
+        "id": 106,
+        "title": "Lab 3",
         "icon": "flask",
         "type": "pdf",
         "file": "https://example.com/materials/geometry_lab.pdf"
@@ -39,7 +95,33 @@
     "notes": [
       {
         "id": 201,
-        "title": "Topic 1",
+        "title": "Basics of Computer Architecture Organisation",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 202,
+        "title": "Combinational Circuits",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+
+      {
+        "id": 203,
+        "title": "Flynn Classification",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+
+      {
+        "id": 204,
+        "title": "Sequential Circuits",
         "icon": "notebook-outline",
         "type": "pdf",
         "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
@@ -52,12 +134,243 @@
         "icon": "file-document",
         "type": "pdf",
         "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 203,
+        "title": "Tutorial 2",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
       }
     ],
     "labs": [
       {
         "id": 203,
+        "title": "Lab",
+        "icon": "flask",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      }
+    ]
+  },
+
+
+  "3": {
+    "notes": [
+      {
+        "id": 201,
+        "title": "File Organisation",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 202,
+        "title": "Introduction",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+
+      {
+        "id": 203,
+        "title": "Relational Model",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      }
+
+
+    
+    ],
+    "tutorials": [
+      {
+        "id": 202,
+        "title": "Tutorial 1",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 203,
+        "title": "Tutorial 2",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+    "labs": [
+      {
+        "id": 203,
+        "title": "Lab",
+        "icon": "flask",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      }
+    ]
+  },
+
+  "4": {
+    "notes": [
+      {
+        "id": 201,
+        "title": "Introduction " ,
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 202,
+        "title": "OSI and TCP/IP Model",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+
+      {
+        "id": 203,
+        "title": "Transmission Media",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+
+      {
+        "id": 204,
+        "title": "Networking Devices",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+    "tutorials": [
+      {
+        "id": 202,
+        "title": "Tutorial 1",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 203,
+        "title": "Tutorial 2",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 204,
+        "title": "Tutorial 3",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 205,
+        "title": "Tutorial 4",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+    "labs": [
+      {
+        "id": 203,
+        "title": "Lab",
+        "icon": "flask",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      }
+    ]
+  },
+
+
+  "5": {
+    "notes": [
+      {
+        "id": 201,
+        "title": "Classes and Objects",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 202,
+        "title": "Constructor",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+
+      {
+        "id": 203,
+        "title": "Arrays and Strings",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+
+      {
+        "id": 204,
+        "title": "Import Statements",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+    "tutorials": [
+      {
+        "id": 202,
+        "title": "No Tutorials For This Course",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      }
+
+      
+    ],
+    "labs": [
+      {
+        "id": 203,
         "title": "Lab 1",
+        "icon": "flask",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 204,
+        "title": "Lab 2",
+        "icon": "flask",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+      {
+        "id": 205,
+        "title": "Lab 3",
+        "icon": "flask",
+        "type": "pdf",
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+      },
+
+
+      {
+        "id": 206,
+        "title": "Lab 4",
         "icon": "flask",
         "type": "pdf",
         "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"

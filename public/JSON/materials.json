@@ -1,0 +1,67 @@
+{
+  "1": {
+    "notes": [
+      {
+        "id": 101,
+        "title": "Algebra Basics",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file": "https://example.com/materials/algebra_basics.pdf"
+      },
+      {
+        "id": 102,
+        "title": "Calculus Notes",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file": "https://example.com/materials/calculus_notes.pdf"
+      }
+    ],
+    "tutorials": [
+      {
+        "id": 103,
+        "title": "Calculus Tutorial",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://example.com/materials/calculus_tutorial.pdf"
+      }
+    ],
+    "labs": [
+      {
+        "id": 104,
+        "title": "Geometry Lab",
+        "icon": "flask",
+        "type": "pdf",
+        "file": "https://example.com/materials/geometry_lab.pdf"
+      }
+    ]
+  },
+  "2": {
+    "notes": [
+      {
+        "id": 201,
+        "title": "Mechanics Notes",
+        "icon": "notebook-outline",
+        "type": "pdf",
+        "file": "https://example.com/materials/mechanics_notes.pdf"
+      }
+    ],
+    "tutorials": [
+      {
+        "id": 202,
+        "title": "Thermodynamics Tutorial",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://example.com/materials/thermodynamics_tutorial.pdf"
+      }
+    ],
+    "labs": [
+      {
+        "id": 203,
+        "title": "Fluid Mechanics Lab",
+        "icon": "flask",
+        "type": "pdf",
+        "file": "https://example.com/materials/fluid_mechanics_lab.pdf"
+      }
+    ]
+  }
+}

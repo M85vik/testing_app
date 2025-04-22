@@ -6,14 +6,14 @@
         "title": "Introduction",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Notes/ch1.ppt"
       },
       {
         "id": 102,
         "title": "Computer System Structures",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Notes/ch2.ppt"
       },
 
       {
@@ -21,7 +21,7 @@
         "title": "OS Structures",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Notes/ch3.ppt"
       },
 
       {
@@ -29,7 +29,7 @@
         "title": "Process",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Notes/ch4.ppt"
       }
     ],
     "tutorials": [
@@ -98,7 +98,7 @@
         "title": "Basics of Computer Architecture Organisation",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CAO/Notes/BasicsofComputerorganization.ppt"
       },
 
       {
@@ -106,7 +106,7 @@
         "title": "Combinational Circuits",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CAO/Notes/CombinationalCircuits.ppt"
       },
 
 
@@ -115,7 +115,7 @@
         "title": "Flynn Classification",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CAO/Notes/FlynnClassification.ppt"
       },
 
 
@@ -124,7 +124,7 @@
         "title": "Sequential Circuits",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CAO/Notes/SequentialCircuits.ppt"
       }
     ],
     "tutorials": [
@@ -133,7 +133,7 @@
         "title": "Tutorial 1",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CAO/Tuts/CAOTutorial0.docx"
       },
 
       {

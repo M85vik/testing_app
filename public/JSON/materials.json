@@ -38,7 +38,7 @@
         "title": "Tutorial 1",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://example.com/materials/calculus_tutorial.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       },
 
       {
@@ -46,7 +46,7 @@
         "title": "Tutorial 2",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://example.com/materials/calculus_tutorial.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       },
 
       {
@@ -54,7 +54,7 @@
         "title": "Tutorial 3",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://example.com/materials/calculus_tutorial.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       },
 
       {
@@ -62,7 +62,7 @@
         "title": "Tutorial 4",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://example.com/materials/calculus_tutorial.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       }
     ],
     "labs": [
@@ -71,7 +71,7 @@
         "title": "Lab 1",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://example.com/materials/geometry_lab.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       },
 
       {
@@ -79,7 +79,7 @@
         "title": "Lab 2",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://example.com/materials/geometry_lab.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       },
 
       {
@@ -87,7 +87,7 @@
         "title": "Lab 3",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://example.com/materials/geometry_lab.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       }
     ]
   },
@@ -141,7 +141,7 @@
         "title": "Tutorial 2",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CAO/Tuts/CAOTutorials2.docx"
       }
     ],
     "labs": [
@@ -150,7 +150,7 @@
         "title": "Lab",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       }
     ]
   },
@@ -163,7 +163,7 @@
         "title": "File Organisation",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/DBMS/Notes/Week1FileOrganization.ppt"
       },
 
       {
@@ -171,7 +171,7 @@
         "title": "Introduction",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/DBMS/Notes/Week3Introduction.ppt"
       },
 
 
@@ -180,7 +180,7 @@
         "title": "Relational Model",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/DBMS/Notes/Week4RelationalModel.ppt"
       }
 
 
@@ -192,7 +192,7 @@
         "title": "Tutorial 1",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       },
 
       {
@@ -200,7 +200,7 @@
         "title": "Tutorial 2",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       }
     ],
     "labs": [
@@ -209,7 +209,7 @@
         "title": "Lab",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       }
     ]
   },
@@ -221,7 +221,7 @@
         "title": "Introduction " ,
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Notes/Week1.ppt"
       },
 
       {
@@ -229,7 +229,7 @@
         "title": "OSI and TCP/IP Model",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Notes/Week2.ppt"
       },
 
 
@@ -238,7 +238,7 @@
         "title": "Transmission Media",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Notes/Week3.ppt"
       },
 
 
@@ -247,7 +247,7 @@
         "title": "Networking Devices",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Notes/Week4.ppt"
       }
     ],
     "tutorials": [
@@ -256,7 +256,7 @@
         "title": "Tutorial 1",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Tuts/Tut01.docx"
       },
 
       {
@@ -264,7 +264,7 @@
         "title": "Tutorial 2",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Tuts/Tut02.docx"
       },
 
       {
@@ -272,7 +272,7 @@
         "title": "Tutorial 3",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Tuts/Tut03.docx"
       },
 
       {
@@ -280,7 +280,7 @@
         "title": "Tutorial 4",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Tuts/Tut04.docx"
       }
     ],
     "labs": [
@@ -289,7 +289,7 @@
         "title": "Lab",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       }
     ]
   },
@@ -302,7 +302,7 @@
         "title": "Classes and Objects",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OOPS/Notes/Classes&Objects.ppt"
       },
 
       {
@@ -310,7 +310,7 @@
         "title": "Constructor",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OOPS/Notes/ConstructorsinJava.pdf"
       },
 
 
@@ -319,7 +319,7 @@
         "title": "Arrays and Strings",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OOPS/Notes/ArraysandStrings.pdf"
       },
 
 
@@ -328,7 +328,7 @@
         "title": "Import Statements",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file":"https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OOPS/Notes/ImportStatementandtakinginput.ppt"
       }
     ],
     "tutorials": [
@@ -337,7 +337,7 @@
         "title": "No Tutorials For This Course",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       }
 
       
@@ -348,7 +348,7 @@
         "title": "Lab 1",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       },
 
       {
@@ -356,7 +356,7 @@
         "title": "Lab 2",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       },
 
       {
@@ -364,7 +364,7 @@
         "title": "Lab 3",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       },
 
 
@@ -373,7 +373,7 @@
         "title": "Lab 4",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
       }
     ]
   }

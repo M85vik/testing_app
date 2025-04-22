@@ -3,23 +3,23 @@
     "notes": [
       {
         "id": 101,
-        "title": "Algebra Basics",
+        "title": "Topic 1",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file": "https://example.com/materials/algebra_basics.pdf"
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
       },
       {
         "id": 102,
-        "title": "Calculus Notes",
+        "title": "Topic 2",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file": "https://example.com/materials/calculus_notes.pdf"
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
       }
     ],
     "tutorials": [
       {
         "id": 103,
-        "title": "Calculus Tutorial",
+        "title": "Tutorial 1",
         "icon": "file-document",
         "type": "pdf",
         "file": "https://example.com/materials/calculus_tutorial.pdf"
@@ -28,7 +28,7 @@
     "labs": [
       {
         "id": 104,
-        "title": "Geometry Lab",
+        "title": "Lab 1",
         "icon": "flask",
         "type": "pdf",
         "file": "https://example.com/materials/geometry_lab.pdf"
@@ -39,28 +39,28 @@
     "notes": [
       {
         "id": 201,
-        "title": "Mechanics Notes",
+        "title": "Topic 1",
         "icon": "notebook-outline",
         "type": "pdf",
-        "file": "https://example.com/materials/mechanics_notes.pdf"
+        "file":"https://serv-lake.vercel.app/DOCS/uploaded.pdf"
       }
     ],
     "tutorials": [
       {
         "id": 202,
-        "title": "Thermodynamics Tutorial",
+        "title": "Tutorial 1",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://example.com/materials/thermodynamics_tutorial.pdf"
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
       }
     ],
     "labs": [
       {
         "id": 203,
-        "title": "Fluid Mechanics Lab",
+        "title": "Lab 1",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://example.com/materials/fluid_mechanics_lab.pdf"
+        "file": "https://serv-lake.vercel.app/DOCS/uploaded.pdf"
       }
     ]
   }

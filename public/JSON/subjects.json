@@ -1,27 +1,27 @@
 [
     {
       "id": 1,
-      "name": "Mathematics",
-      "icon": "calculator"
+      "name": "Algorithm Design and Analysis",
+      "icon": "flask"
     },
     {
       "id": 2,
-      "name": "Physics",
+      "name": "Computer Graphics and Multimedia",
       "icon": "atom"
     },
     {
       "id": 3,
-      "name": "Chemistry",
+      "name": "Operating System",
       "icon": "flask"
     },
     {
       "id": 4,
-      "name": "Biology",
+      "name": "Computer Architecture and Organisation",
       "icon": "dna"
     },
     {
       "id": 5,
-      "name": "Computer Science",
+      "name": "Database Management System",
       "icon": "laptop"
     }
   ]

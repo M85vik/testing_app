@@ -1,89 +1,96 @@
 {
-    "1": [
-      {
-        "id": 101,
-        "title": "Algebra Basics",
-        "icon": "file-document",
-        "type": "pdf",
-        "file": "https://serv-lake.vercel.app/"
-      },    
-      {
-        "id": 102,
-        "title": "Calculus Tutorial",
-        "icon": "file-pdf",
-        "type": "pdf",
-        "file": "https://serv-lake.vercel.app/"
-      },
-      {
-        "id": 103,
-        "title": "Geometry Lab",
-        "icon": "ruler",
-        "type": "pdf",
-        "file":"https://serv-lake.vercel.app/"
-      }
-    ],
-    "2": [
-      {
-        "id": 201,
-        "title": "Mechanics Notes",
-        "icon": "file-document",
-        "type": "pdf",
-        "file": ""
-      },
-      {
-        "id": 202,
-        "title": "Thermodynamics Tutorial",
-        "icon": "file-pdf",
-        "type": "pdf",
-        "file": "https://serv-lake.vercel.app/"
-      }
-    ],
-    "3": [
-      {
-        "id": 301,
-        "title": "Organic Chemistry",
-        "icon": "flask",
-        "type": "pdf",
-        "file": "https://serv-lake.vercel.app/"
-      },
-      {
-        "id": 302,
-        "title": "Periodic Table Guide",
-        "icon": "table",
-        "type": "pdf",
-        "file": "https://serv-lake.vercel.app/"
-      }
-    ],
-    "4": [
-      {
-        "id": 401,
-        "title": "Cell Biology",
-        "icon": "dna",
-        "type": "pdf",
-        "file":"https://serv-lake.vercel.app/"
-      },
-      {
-        "id": 402,
-        "title": "Genetics Tutorial",
-        "icon": "file-pdf",
-        "type": "pdf",
-        "file": "https://serv-lake.vercel.app/"
-      }
-    ],
-    "5": [
-      {
-        "id": 501,
-        "title": "Introduction to Programming",
-        "icon": "code-tags",
-        "type": "pdf",
-        "file": "https://serv-lake.vercel.app/"
-      },
-      {
-        "id": 502,
-        "title": "Data Structures",
-        "icon": "database",
-        "type": "pdf",
-        "file": "https://serv-lake.vercel.app/"
-      }
-    ]
+    "1": {
+      "notes": [
+        {
+          "id": 101,
+          "title": "Algebra Basics",
+          "icon": "notebook-outline",
+          "type": "pdf",
+          "file": "https://serv-lake.vercel.app/"
+        },
+        {
+          "id": 102,
+          "title": "Calculus Notes",
+          "icon": "notebook-outline",
+          "type": "pdf",
+          "file": "https://example.com/materials/calculus_notes.pdf"
+        }
+      ],
+      "tutorials": [
+        {
+          "id": 103,
+          "title": "Calculus Tutorial",
+          "icon": "file-document",
+          "type": "pdf",
+          "file": "https://example.com/materials/calculus_tutorial.pdf"
+        }
+      ],
+      "labs": [
+        {
+          "id": 104,
+          "title": "Geometry Lab",
+          "icon": "flask",
+          "type": "pdf",
+          "file": "https://example.com/materials/geometry_lab.pdf"
+        }
+      ]
+    },
+    "2": {
+      "notes": [
+        {
+          "id": 201,
+          "title": "Mechanics Notes",
+          "icon": "notebook-outline",
+          "type": "pdf",
+          "file": "https://example.com/materials/mechanics_notes.pdf"
+        }
+      ],
+      "tutorials": [
+        {
+          "id": 202,
+          "title": "Thermodynamics Tutorial",
+          "icon": "file-document",
+          "type": "pdf",
+          "file": "https://example.com/materials/thermodynamics_tutorial.pdf"
+        }
+      ],
+      "labs": [
+        {
+          "id": 203,
+          "title": "Fluid Mechanics Lab",
+          "icon": "flask",
+          "type": "pdf",
+          "file": "https://example.com/materials/fluid_mechanics_lab.pdf"
+        }
+      ]
+    },
+    "3": {
+      "notes": [
+        {
+          "id": 301,
+          "title": "Organic Chemistry Notes",
+          "icon": "notebook-outline",
+          "type": "pdf",
+          "file": "https://example.com/materials/organic_chemistry_notes.pdf"
+        }
+      ],
+      "tutorials": [
+        {
+          "id": 302,
+          "title": "Periodic Table Tutorial",
+          "icon": "file-document",
+          "type": "pdf",
+          "file": "https://example.com/materials/periodic_table_tutorial.pdf"
+        }
+      ],
+      "labs": [
+        {
+          "id": 303,
+          "title": "Chemical Reactions Lab",
+          "icon": "flask",
+          "type": "pdf",
+          "file": "https://example.com/materials/chemical_reactions_lab.pdf"
+        }
+      ]
+    }
   }

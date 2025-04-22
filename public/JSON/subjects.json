@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Mathematics",
+      "icon": "calculator"
+    },
+    {
+      "id": 2,
+      "name": "Physics",
+      "icon": "atom"
+    },
+    {
+      "id": 3,
+      "name": "Chemistry",
+      "icon": "flask"
+    },
+    {
+      "id": 4,
+      "name": "Biology",
+      "icon": "dna"
+    },
+    {
+      "id": 5,
+      "name": "Computer Science",
+      "icon": "laptop"
+    }
+  ]

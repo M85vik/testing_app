@@ -38,31 +38,31 @@
         "title": "Tutorial 1",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
-      },
-
-      {
-        "id": 103,
-        "title": "Tutorial 2",
-        "icon": "file-document",
-        "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Tuts/NewTutorial1.docx"
       },
 
       {
         "id": 104,
-        "title": "Tutorial 3",
+        "title": "Tutorial 2",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Tuts/NewTutorial2.docx"
       },
 
       {
         "id": 105,
+        "title": "Tutorial 3",
+        "icon": "file-document",
+        "type": "pdf",
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Tuts/NewTutorial3.docx"
+      },
+
+      {
+        "id": 106,
         "title": "Tutorial 4",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Tuts/NewTutorial5.docx"
       }
     ],
     "labs": [
@@ -71,7 +71,7 @@
         "title": "Lab 1",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Labs/Lab1.docx"
       },
 
       {
@@ -79,7 +79,7 @@
         "title": "Lab 2",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Labs/Lab3.docx"
       },
 
       {
@@ -87,7 +87,7 @@
         "title": "Lab 3",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Labs/Lab4.docx"
       }
     ]
   },
@@ -150,7 +150,7 @@
         "title": "Lab",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Tuts/Tut01.docx"
       }
     ]
   },
@@ -192,7 +192,7 @@
         "title": "Tutorial 1",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Tuts/Tut01.docx"
       },
 
       {
@@ -200,7 +200,7 @@
         "title": "Tutorial 2",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Tuts/Tut01.docx"
       }
     ],
     "labs": [
@@ -209,7 +209,7 @@
         "title": "Lab",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Labs/Lab1.docx"
       }
     ]
   },
@@ -289,7 +289,7 @@
         "title": "Lab",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Labs/Lab1.docx"
       }
     ]
   },
@@ -337,7 +337,7 @@
         "title": "No Tutorials For This Course",
         "icon": "file-document",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/CN/Tuts/Tut03.docx"
       }
 
       
@@ -348,7 +348,7 @@
         "title": "Lab 1",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Labs/Lab1.docx"
       },
 
       {
@@ -356,7 +356,7 @@
         "title": "Lab 2",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Labs/Lab1.docx"
       },
 
       {
@@ -364,7 +364,7 @@
         "title": "Lab 3",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Labs/Lab1.docx"
       },
 
 
@@ -373,7 +373,7 @@
         "title": "Lab 4",
         "icon": "flask",
         "type": "pdf",
-        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/abc.png"
+        "file": "https://testing-app-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/OS/Labs/Lab1.docx"
       }
     ]
   }
